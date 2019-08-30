@@ -1,0 +1,18 @@
+/*Tag Name Selector */
+   h1{
+    color: #ff4500;
+    font-size: 4em;
+} 
+
+/*id Selector*/ 
+#anotherstyle{
+  color: #ff4500;
+    font-size: 80px;
+    font-style: italic;
+}
+/* Class Selector */
+.mystyle{
+    color: #ff4500;
+    border-style: solid;
+    
+}

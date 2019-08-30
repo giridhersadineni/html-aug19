@@ -1,0 +1,16 @@
+
+section{
+    background-color: whitesmoke;
+    padding: 1em;
+}
+section h2{
+    color: red;
+}
+section textarea{
+    width: 100%;
+    padding: 1em;
+}
+section .output{
+    width: 100%;
+    padding: 1em;
+}
